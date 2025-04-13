@@ -455,5 +455,5 @@ The backend of this project can be found [here](https://github.com/alexdeloire/c
 <sup>[(Back to top)](#table-of-contents)</sup>
 
 - [**Alexandre Deloire**](https://github.com/alexdeloire)
-- [**Rémi Jorge**](https://github.com/RemiJorge)
 - [**Jiayi He**](https://github.com/JiayiHE95)
+- [**Rémi Jorge**](https://github.com/RemiJorge)
